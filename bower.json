@@ -1,0 +1,21 @@
+{
+  "name": "day02",
+  "description": "",
+  "main": "main.js",
+  "authors": [
+    "Pang PC"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.6.3"
+  }
+}
